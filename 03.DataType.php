@@ -27,5 +27,21 @@ echo"<br>";
 //Array
 $cars = array("Volvo" , "BMW" , "Toyto");
 var_dump($cars);
+echo"<br>";
+
+
+//Null
+$k = "Hello world";
+$k = null;
+var_dump($k);
+echo"<br>";
+
+//Chnage data type 
+//changing data type is auntomatically done
+$p = "Hello";
+var_dump($p);
+
+$p = 78;
+var_dump($p);
 
 ?>
