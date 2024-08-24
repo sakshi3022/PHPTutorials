@@ -26,8 +26,8 @@ echo "<br>";
 $c = 1;
 
 do{
+    $c++;
     if($c == 3) continue;
     echo $c;
-    $c++;
 } while ($c < 10);
 ?>
