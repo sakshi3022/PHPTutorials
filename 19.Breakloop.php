@@ -34,6 +34,7 @@ do{
 echo "<br>";
 echo "<br>";
 
+
 //for each loop
 
 $colors = array ("red", "green", "black");
